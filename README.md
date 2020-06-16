@@ -3,7 +3,7 @@
 ## What it have here ?
 
 * THE JOURNRY OF LEARNING SQL
-* THE QUESION I GOT & HOW I  SOLVE ABOUT THE SQL
+* THE QUESION I GOT & HOW I  SOLVE IT ABOUT THE SQL
 
 ## What you can get ?
 
